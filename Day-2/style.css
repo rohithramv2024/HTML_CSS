@@ -9,15 +9,42 @@ h1
 nav
 {
 	text-align: center;
+	background: beige;
 }
 body
 {
-	background: grey;
-	color:black;
-	text-align: center;
+	background: #C9DDF2;
 }
 h2
 {
-	text-align: left;
-	color:darkgreen;
+	text-align: center;
+	color:#400259;
+}
+p{
+	color:#731A4B;
+	font-style: italic;
+	font-size: 30px;
+}
+ol
+{
+	color:seagreen;
+}
+.c1
+{
+	font-size:50px;
+	text-align: center;
+	text-decoration: overline;
+
+}
+.c2
+{
+	font-size: 50px;
+	text-align: center;
+	color:darkred;
+}
+.c3
+{
+	font-size:30px;
+	text-align:left;
+	color:darkred;
 }
